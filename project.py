@@ -34,7 +34,7 @@ def caculate():
             qustions_1 = answer
         else:
             should_continue = False
-            print("\n" * 20)
+            print("\n" * 230)
             caculate()
 
 caculate()
